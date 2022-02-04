@@ -177,6 +177,7 @@ nav {
 }
 .nav-links {
   display: flex;
+  justify-content: flex-end;
 }
 nav a {
   text-transform: capitalize;
